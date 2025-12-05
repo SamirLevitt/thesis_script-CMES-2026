@@ -9,6 +9,7 @@ Terms:
 Innovativeness: The rate of genetic/internal linguistic change over time; innovations per century.
   - Based on the tree model: innovations are genetic changes effected by internal factors, barring external influence
   - Compare to Darwin’s genetic mutations
+
 Borrowing rate: The rate of areal/external linguistic change over time; borrowings per century.
   - Based on the wave model: borrowings are areal changes effected by external factors, i.e. changes taken from neighboring linguistic communities
   - Compare to Darwin’s adaptations
