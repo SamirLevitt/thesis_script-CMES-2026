@@ -6,6 +6,7 @@ Aim: approximate rates of linguistic mutation (innovativeness) and adaptation (e
   - Analysis of Proto-Arabic feature list; which proposed features are valid to reconstruct?
 
 Terms:
+
 Innovativeness: The rate of genetic/internal linguistic change over time; innovations per century.
   - Based on the tree model: innovations are genetic changes effected by internal factors, barring external influence
   - Compare to Darwin’s genetic mutations
