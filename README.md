@@ -14,30 +14,28 @@ Borrowing rate: The rate of areal/external linguistic change over time; borrowin
   - Compare to Darwin’s adaptations
 
 Linear formula for innovativeness:
-  μd = abs(G(td)/(td-ta))
+  - μd = abs(G(td)/(td-ta))
     - t = x is time expressed in centuries
-        BCE represented by negative integers, CE by positive
+        - BCE represented by negative integers, CE by positive
     - (td - ta) is the approx. age (in centuries) of the descendant language at its terminus post quem
-        ta is the approx. terminus post quem (expressed in centuries) of the ancestor language
-        td is the approx. terminus post quem (expressed in centuries) of the descendant language
-        i.e. the current year is expressed as 20.25
+        - ta is the approx. terminus post quem (expressed in centuries) of the ancestor language
+        - td is the approx. terminus post quem (expressed in centuries) of the descendant language
+        - i.e. the current year is expressed as 20.25
     - G(ta) = y0 is the total number of genetic/internal changes (i.e. innovations) of the ancestor language by ta.
     - G(td) = y1 is the total number of genetic/internal changes (i.e. innovations) of the descendant language by td.
     - μd = m is the avg. # of innovations per century in a given descendant language (d), termed the innovativeness rate.
-    - ‘The approximated innovativeness rate of a descendant language (μd) is equal to the difference between the number of innovations present in the descendant   
-    language (G(td)) and the ancestor language (G(ta)) at their respective termini post quem, divided by the approximate age (in centuries) of the descendant 
-    language at its terminus post quem (td - ta).’
+    - ‘The approximated innovativeness rate of a descendant language (μd) is equal to the difference between the number of innovations present in the descendant language (G(td)) and the ancestor language (G(ta)) at their respective termini post quem, divided by the approximate age (in centuries) of the descendant language at its terminus post quem (td - ta).’
 
 Linear formula for borrowing rate:
-  ɑd =A(td)td-ta
+  - ɑd =A(td)td-ta
     - A(ta) = y0 is the total number of areal/external changes (i.e. borrowings) of the ancestor language by ta.
     - A(td) = y1 is the total number of areal/external changes (i.e. borrowings) of the descendant language by td.
     - ɑd = m is the avg. # of borrowings per century in a given descendant language (d), termed the borrowing rate.
 
 Poisson distribution of innovations/borrowings:
-P(X=k)=e-kk!
-  - Comparison with related languages
-  - Testing for error using attested Arabic varieties
+  - P(X=k)=e-kk!
+    - Comparison with related languages
+    - Testing for error using attested Arabic varieties
 
 Future goals:
 Explanation of why one Central Semitic language would be more innovative than another.
