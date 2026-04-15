@@ -1,0 +1,10 @@
+language,feature,add/subtract,tree/wave,category
+PS,x,x,x,x,UNK
+WS,b,pos,areal,synt,UNK
+WS,z,pos,inno,synt,UNK
+CS,c,pos,inno,phono,UNK
+CS,h,neg,areal,phono,UNK
+PA,d,neg,inno,phono,UNK
+PA,ll,pos,areal,morpho,UNK
+OA,e,pos,areal,morpho,UNK
+OA,laksd,neg,inno,synt,UNK
