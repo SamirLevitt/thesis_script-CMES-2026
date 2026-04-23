@@ -1,0 +1,36 @@
+'''
+MODEL OUTPUT
+-----------------------------------------------------------------------------------------------------------------------------
+
+Pre-Historic Innovativeness: 1.91 (btw. c. 3000 BCE & c. 853 BCE)
+Semi-Attested Innovativeness: 1.355932 (btw. c. 853 BCE & c. 622 CE)
+Old Arabic has 0.554068 less avg. innovations/cen. than its ancestors.
+
+-- p-values via Poisson Dist. (H0: single global rate) --
+                West Semitic:     0.529443035462717
+                Central Semitic:  0.012120444407581551
+                Proto-Arabic:     0.8816821639459239
+                Old Arabic:       0.3877308194053377
+                
+
+Likelihood-ratio tests for innovation rate breaks at internal boundaries
+West Semitic boundary (t_west): LR = 0.8840, p = 0.3471
+Central Semitic boundary (t_cs): LR = 2.9206, p = 0.0875
+Proto-Arabic boundary (t_arab): LR = 1.6326, p = 0.2013
+
+Standard deviation of synthetic innovation times by terminus and side
+  (SD in centuries; p = two-sided p-value vs Uniform null)
+
+West Semitic boundary (t_west):
+  Left side : SD = 1.559 centuries, p = 0.692
+  Right side: SD = 1.485 centuries, p = 0.780
+
+Central Semitic boundary (t_cs):
+  Left side : SD = 1.485 centuries, p = 0.787
+  Right side: SD = 3.402 centuries, p = 0.789
+
+Proto-Arabic boundary (t_arab):
+  Left side : SD = 3.402 centuries, p = 0.794
+  Right side: SD = 4.363 centuries, p = 0.794
+
+'''
